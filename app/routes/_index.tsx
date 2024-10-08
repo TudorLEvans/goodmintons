@@ -162,7 +162,7 @@ export default function Index() {
             <Heading mb="2">How to join</Heading>
             <Text>
               To join us, all you need to do is send a message to{" "}
-              <Strong>@gmail.com</Strong>. It's that simple!
+              <Strong>goodmintonscambridge@gmail.com</Strong>. It's that simple!
             </Text>
             <Text>
               Please tell us a little bit about yourself and your past
